@@ -1,0 +1,18 @@
+#+TITLE: shiori.el
+An Emacs Client for Shiori.
+
+* Variables
+| Name            | Docstring                |
+|-----------------+--------------------------|
+| shiori-password | The Password of Shiori.  |
+| shiori-url      | The URL of Shiori.       |
+| shiori-username | The User Name of Shiori. |
+
+* Interactive Commands
+| Name                  | Docstring        |
+|-----------------------+------------------|
+| shiori-login          | Login.           |
+| shiori-add            | Add Bookmark.    |
+| shiori-bookmarks      | List Bookmarks.  |
+| shiori-delete-article | Open an article. |
+| shiori-open-article   | Open an article. |
